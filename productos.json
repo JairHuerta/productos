@@ -1,0 +1,44 @@
+{
+  "productos": [
+    {
+      "id": 0,
+      "nombre": "Pastel Napolitano",
+      "precio": "325"
+    },
+    {
+      "nombre": "Pastel de Zanahoria",
+      "precio": "45",
+      "id": 4
+    },
+    {
+      "nombre": "Pastel de Chocolate",
+      "precio": "60",
+      "id": 5
+    },
+    {
+      "nombre": "Pastel de Fresa",
+      "precio": "40",
+      "id": 6
+    },
+    {
+      "nombre": "Paste de Arandano",
+      "precio": "200",
+      "id": 7
+    },
+    {
+      "nombre": "Fresa con crema",
+      "precio": "90",
+      "id": 8
+    },
+    {
+      "nombre": "Roles de canela",
+      "precio": "85",
+      "id": 9
+    },
+    {
+      "nombre": "Bigote relleno",
+      "precio": "20",
+      "id": 10
+    }
+  ]
+}
